@@ -1,0 +1,243 @@
+var list = [
+	// Superman
+	{
+	  "name":"Superman",
+	  "photo":"http://data.whicdn.com/images/165283049/large.png",
+	  "scores":[
+	     5,
+	     5,
+	     1,
+	     5,
+	     4,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1
+	   ]
+	},
+	// Batman
+	{
+	  "name":"Batman",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/564x/b3/f7/90/b3f7908579133d8b42aa6ad9b08236bb.jpg",
+	  "scores":[
+	     5,
+	     1,
+	     5,
+	     5,
+	     5,
+	     1,
+	     1,
+	     1,
+	     5,
+	     1
+	   ]
+	},
+	// Flasj
+	{
+	  "name":"Flash",
+	  "photo":"http://comicvine.gamespot.com/api/image/scale_super/3792783-wally_west_by_seba316-d5de01o.jpg",
+	  "scores":[
+	     5,
+	     5,
+	     5,
+	     1,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1,
+	     5
+	   ]
+	},
+	// Aquaman
+	{
+	  "name":"Aquaman",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/564x/89/e3/bc/89e3bc0d8ea7ebf9a010914fe3650a93.jpg",
+	  "scores":[
+	     3,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1,
+	     1,
+	     5,
+	     1,
+	     5
+	   ]
+	},
+	// GL
+	{
+	  "name":"Green Lantern",
+	  "photo":"http://1.media.dorkly.cvcdn.com/89/16/f3ab4dbf8aefd3341421eaea62059f8a-the-5-most-embarrassing-moments-in-green-lantern-comic-book-history.jpg",
+	  "scores":[
+	     5,
+	     5,
+	     5,
+	     1,
+	     5,
+	     5,
+	     1,
+	     1,
+	     4,
+	     5
+	   ]
+	},
+	// Zatanna
+	{
+	  "name":"Zatanna",
+	  "photo":"http://vignette1.wikia.nocookie.net/batman/images/8/81/Zatanna_(Batman_Beyond)_01.jpg/revision/latest?cb=20090609152031",
+	  "scores":[
+	     2,
+	     1,
+	     4,
+	     4,
+	     5,
+	     1,
+	     2,
+	     5,
+	     4,
+	     1
+	   ]
+	},
+	// Hawkgirl
+	{
+	  "name":"HawkGirl",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/736x/9b/d1/ab/9bd1abebe23d8a436e15037f36feb526.jpg",
+	  "scores":[
+	     2,
+	     5,
+	     5,
+	     1,
+	     3,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1
+	   ]
+	},
+	// Supergirl
+	{
+	  "name":"Supergirl",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/736x/58/c0/4f/58c04f9d7fc7be518ec6e57008ec7f30.jpg",
+	  "scores":[
+	     4,
+	     5,
+	     1,
+	     5,
+	     3,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1
+	   ]
+	},
+	// Batgirl
+	{
+	  "name":"Batgirl",
+	  "photo":"http://65.media.tumblr.com/a7c13361ce5245e6dc5544ecac90efaf/tumblr_n9u4pmzNEn1r3j9f2o1_1280.jpg",
+	  "scores":[
+	     5,
+	     1,
+	     5,
+	     5,
+	     5,
+	     1,
+	     1,
+	     1,
+	     5,
+	     1
+	   ]
+	},
+	// Wonder Woman
+	{
+	  "name":"Wonder Woman",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/236x/04/08/99/0408998ecff0850948562c5f442d0a00.jpg",
+	  "scores":[
+	     2,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1,
+	     2,
+	     5,
+	     1,
+	     5
+	   ]
+	},
+	// Power Girl
+	{
+	  "name":"Power Girl",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/originals/d8/7b/73/d87b7369d9e66b9111072cebdb2ad65b.jpg",
+	  "scores":[
+	     3,
+	     5,
+	     1,
+	     5,
+	     5,
+	     5,
+	     1,
+	     1,
+	     1,
+	     1
+	   ]
+	},
+	// Catwoman
+	{
+	  "name":"Catwoman",
+	  "photo":"https://s-media-cache-ak0.pinimg.com/originals/5d/1c/c5/5d1cc5cb34942a4ebff2e3034d76c645.jpg",
+	  "scores":[
+	     1,
+	     1,
+	     3,
+	     1,
+	     5,
+	     1,
+	     5,
+	     1,
+	     1,
+	     1
+	   ]
+	},
+	// The Atom
+	{
+	  "name":"The Atom",
+	  "photo":"https://pmctvline2.files.wordpress.com/2014/07/brandon-routh-arrow-the-atom.jpg",
+	  "scores":[
+	     3,
+	     1,
+	     4,
+	     1,
+	     1,
+	     3,
+	     1,
+	     5,
+	     3,
+	     1
+	   ]
+	},
+	// Firestorm
+	{
+	  "name":"Firestorm",
+	  "photo":"http://media.dcentertainment.com/sites/default/files/imce/2014/07-JUL/firestorm_image_v01_53bccd4616bb00.13466290.jpg",
+	  "scores":[
+	     3,
+	     5,
+	     4,
+	     1,
+	     1,
+	     5,
+	     1,
+	     5,
+	     1,
+	     1
+	   ]
+	}
+
+];
+
+module.exports = list;

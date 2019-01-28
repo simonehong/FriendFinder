@@ -2,9 +2,9 @@
   "name": "FriendFinder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +20,5 @@
   "dependencies": {
     "express": "^4.16.4",
     "path": "^0.12.7"
-  },
-  "scripts": {
-    "start": "node server.js"
   }
 }

@@ -1,8 +1,8 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
-var routes = require('./app/routing/htmlRoutes');
-var api = require('./app/routing/apiRoutes');
+var routes = require('./app/routing/htmlRoutes.js');
+var api = require('./app/routing/apiRoutes.js');
 
 // Sets up the Express App
 // =============================================================

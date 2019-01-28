@@ -1,5 +1,5 @@
 var list = [
-	// Superman
+	// Steve
 	{
 	  "name":"Steve",
 	  "photo":"https://blog.photowhoa.com/2015/wp-content/uploads/2016/08/male-models-photos-poses-face.jpg",
@@ -16,7 +16,7 @@ var list = [
 	     1
 	   ]
 	},
-	// Batman
+	// Jesse
 	{
 	  "name":"Jesse",
 	  "photo":"https://tse2.mm.bing.net/th?id=OIP.5SrzQFHvxnOTA-SEgLy-ogHaIq&pid=15.1&P=0&w=300&h=300",
@@ -33,7 +33,7 @@ var list = [
 	     1
 	   ]
 	},
-	// Flasj
+	// Flash
 	{
 	  "name":"Flash",
 	  "photo":"http://comicvine.gamespot.com/api/image/scale_super/3792783-wally_west_by_seba316-d5de01o.jpg",
@@ -50,7 +50,7 @@ var list = [
 	     5
 	   ]
 	},
-	// Aquaman
+	// Stacy
 	{
 	  "name":"Stacy",
 	  "photo":"https://thumbs.dreamstime.com/z/casual-style-young-woman-posing-isolated-studio-background-beautiful-girl-portrait-female-model-poses-34625025.jpg",
@@ -101,7 +101,7 @@ var list = [
 	     1
 	   ]
 	},
-	// Hawkgirl
+	// Wendy
 	{
 	  "name":"Wendy",
 	  "photo":"https://i.pinimg.com/736x/24/03/ca/2403cafdd85f4ddab250c9316ed94ddd.jpg",
@@ -118,7 +118,7 @@ var list = [
 	     1
 	   ]
 	},
-	// Supergirl
+	// Sonia
 	{
 	  "name":"Sonia",
 	  "photo":"http://data.whicdn.com/images/165283049/large.png",

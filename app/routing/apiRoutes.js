@@ -1,7 +1,7 @@
 module.exports = function (app) {
 	// dependencies
 	var path = require('path');
-	var friends = require('../data/friends.js');
+	var friends = require('../data/friends');
 
 	// ================================================================
 	// api-routes

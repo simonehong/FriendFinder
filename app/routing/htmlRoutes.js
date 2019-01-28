@@ -5,10 +5,10 @@ module.exports = function (app) {
 	// Routes
 
 	app.get('/', function (req, res) {
-		res.json(path.join(__dirname, './public/home.html'));
+		res.json(path.join(__dirname, '../public/home.html'));
 	});
 	// basic route to bring user to survey.html
 	app.get('/survey', function (req, res) {
-		res.json(path.join(__dirname, './public/survey.html'));
+		res.json(path.join(__dirname, '../public/survey.html'));
 	});
 }

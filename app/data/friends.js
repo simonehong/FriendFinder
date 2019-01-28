@@ -1,8 +1,8 @@
 var list = [
 	// Superman
 	{
-	  "name":"Superman",
-	  "photo":"http://data.whicdn.com/images/165283049/large.png",
+	  "name":"Steve",
+	  "photo":"https://blog.photowhoa.com/2015/wp-content/uploads/2016/08/male-models-photos-poses-face.jpg",
 	  "scores":[
 	     5,
 	     5,
@@ -18,8 +18,8 @@ var list = [
 	},
 	// Batman
 	{
-	  "name":"Batman",
-	  "photo":"https://s-media-cache-ak0.pinimg.com/564x/b3/f7/90/b3f7908579133d8b42aa6ad9b08236bb.jpg",
+	  "name":"Jesse",
+	  "photo":"https://tse2.mm.bing.net/th?id=OIP.5SrzQFHvxnOTA-SEgLy-ogHaIq&pid=15.1&P=0&w=300&h=300",
 	  "scores":[
 	     5,
 	     1,
@@ -52,8 +52,8 @@ var list = [
 	},
 	// Aquaman
 	{
-	  "name":"Aquaman",
-	  "photo":"https://s-media-cache-ak0.pinimg.com/564x/89/e3/bc/89e3bc0d8ea7ebf9a010914fe3650a93.jpg",
+	  "name":"Stacy",
+	  "photo":"https://thumbs.dreamstime.com/z/casual-style-young-woman-posing-isolated-studio-background-beautiful-girl-portrait-female-model-poses-34625025.jpg",
 	  "scores":[
 	     3,
 	     5,
@@ -87,7 +87,7 @@ var list = [
 	// Zatanna
 	{
 	  "name":"Zatanna",
-	  "photo":"http://vignette1.wikia.nocookie.net/batman/images/8/81/Zatanna_(Batman_Beyond)_01.jpg/revision/latest?cb=20090609152031",
+		"photo":"https://i.pinimg.com/originals/66/89/d9/6689d9b55b2b5e47eb3d323a6ddb5fdc.jpg",
 	  "scores":[
 	     2,
 	     1,
@@ -103,8 +103,8 @@ var list = [
 	},
 	// Hawkgirl
 	{
-	  "name":"HawkGirl",
-	  "photo":"https://s-media-cache-ak0.pinimg.com/736x/9b/d1/ab/9bd1abebe23d8a436e15037f36feb526.jpg",
+	  "name":"Wendy",
+	  "photo":"https://i.pinimg.com/736x/24/03/ca/2403cafdd85f4ddab250c9316ed94ddd.jpg",
 	  "scores":[
 	     2,
 	     5,
@@ -120,8 +120,8 @@ var list = [
 	},
 	// Supergirl
 	{
-	  "name":"Supergirl",
-	  "photo":"https://s-media-cache-ak0.pinimg.com/736x/58/c0/4f/58c04f9d7fc7be518ec6e57008ec7f30.jpg",
+	  "name":"Sonia",
+	  "photo":"http://data.whicdn.com/images/165283049/large.png",
 	  "scores":[
 	     4,
 	     5,
